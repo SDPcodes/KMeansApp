@@ -1,0 +1,8 @@
+[App]
+Name = "ai.h2o.wave.K-Means-App"
+Version = "1.0"
+Title = "K-Means-App"
+Description = "Application to Demonstrate K-Means Clustering"
+
+[Runtime]
+Module = "src.app"
